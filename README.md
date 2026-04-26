@@ -6,14 +6,14 @@ This project allows users to manage contact details efficiently with password pr
 
 ---
 
-## 🚀 Features
+## Features
 
-- ➕ Add New Contact
-- 📋 View All Contacts
-- 🔍 Smart Search Contact
-- ✏️ Update Contact Details
-- ❌ Delete Contact
-- 🔐 Password Authentication
+-  Add New Contact
+-  View All Contacts
+-  Smart Search Contact
+-  Update Contact Details
+-  Delete Contact
+-  Password Authentication
 
 ---
 
@@ -26,7 +26,7 @@ This project allows users to manage contact details efficiently with password pr
 
 ---
 
-## 💡 Concepts Implemented
+##  Concepts Implemented
 
 - Classes & Objects
 - Constructors
@@ -37,7 +37,7 @@ This project allows users to manage contact details efficiently with password pr
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Contact-Management-System-CPP/
