@@ -17,7 +17,7 @@ This project allows users to manage contact details efficiently with password pr
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **C++**
 - **OOP Concepts**
